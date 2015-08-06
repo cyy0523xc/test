@@ -1,5 +1,5 @@
 {
-    "name": "ibbdtest",
+    "name": "ibbd/test",
     "type": "library",
     "description": "这是测试包",
     "authors": [
