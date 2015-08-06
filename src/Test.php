@@ -7,7 +7,7 @@
  * @todo 
  * @version 2015-08-06
  */
-namespace Ibbdtest;
+namespace Ibbd\Test;
 
 class Test
 {
